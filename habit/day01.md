@@ -35,7 +35,7 @@ heat [hit] <-> hit [hIt]
 sheep [ʃIp] <-> ship [ʃIp]
 
 
-### [I] 短元音
+### [I] 单元音
 部队中的"一,二,三,四" 中的一
 
 **words**
