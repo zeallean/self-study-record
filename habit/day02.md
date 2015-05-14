@@ -88,7 +88,7 @@ black[blæk] <-> block
 
 cap[kæp] <-> cop
 
-ax[æks](斧头) <-> ox[aks](公牛)
+ax[æks] (斧头) <-> ox[aks] (公牛)
 
 ###[ar] 双元音
 理论写法 [aə]. [ə]是个卷舌元音(类似"er","尔").
