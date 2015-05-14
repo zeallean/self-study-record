@@ -3,6 +3,6 @@
 	"title": "走之派--奶爸英语学习手札",
 	"description": "走之派的英语学习成长史",
 	"plugins": [
-      "gitbook-plugin-yahei"
+      "yahei"
       ]
 }
