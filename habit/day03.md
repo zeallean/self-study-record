@@ -52,14 +52,14 @@ pour [por] -> [pɔr]
 
 1.-oi-
 
-coin [kɔIn]    
-noise [nɔIz]   
+coin [kɔIn]
+noise [nɔIz]
 point [pɔInt]
 
 2.oy
 
-boy [bɔI]   
-joy [dʒɔI]   
+boy [bɔI]
+joy [dʒɔI]
 oyster['ɔIstə]
 
 **words**
