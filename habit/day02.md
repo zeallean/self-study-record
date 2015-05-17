@@ -73,16 +73,16 @@ land <-> lend[lεnd]
 
 bad <-> bed[bεd]
 
-###[a] 单元音
+###[ɑ] 单元音
 发音, 类似汉字"啊"的汉语发音. 嘴巴张开幅度要打. 上下唇及上下齿全张,舌头自然平放,舌尖不接触下齿,不要卷起或翘起. 振动声带.
 
 **word**
 
-lock[lak]
+lock[lɑk]
 
-hot [hat]
+hot [hɑt]
 
-stop [stap]
+stop [stɑp]
 
 与[æ]的发音比较
 
@@ -90,31 +90,31 @@ black[blæk] <-> block
 
 cap[kæp] <-> cop
 
-ax[æks] (斧头) <-> ox[aks] (公牛)
+ax[æks] (斧头) <-> ox[ɑks] (公牛)
 
-###[ar] 双元音
-理论写法 [aə]. [ə]是个卷舌元音(类似"er","尔").
-以[r]取代[ə]ing成元音多半会出现在[I],[ε],[a],[ɔ],[u] 等5个元音之后, 分别星城[Ir],[εr],[ar],[ɔr],[ur]等5个双元音.
+###[ɑr] 双元音
+理论写法 [ɑə]. [ə]是个卷舌元音(类似"er","尔").
+以[r]取代[ə]ing成元音多半会出现在[I],[ε],[ɑ],[ɔ],[u] 等5个元音之后, 分别星城[Ir],[εr],[ɑr],[ɔr],[ur]等5个双元音.
 
-[ar]发音, 先发[a]的音,由于收到[r]的影响,念[a]嘴巴不要全张,发音介于拼音"a"与"o"之间.然后将舌头卷起. 有点类似"阿尔".
+[ɑr]发音, 先发[ɑ]的音,由于收到[r]的影响,念[ɑ]嘴巴不要全张,发音介于拼音"a"与"o"之间.然后将舌头卷起. 有点类似"阿尔".
 
 **word**
-hard [hard]
+hard [hɑrd]
 
-artist ['artist]
+artist ['ɑrtist]
 
-far [far]
+far [fɑr]
 
-[ar]的音标多出现在字母"ar"单词中
+[ɑr]的音标多出现在字母"ɑr"单词中
 
-car[kar]
+car[kɑr]
 
-park[park]
+park[pɑrk]
 
-Carter['kartə]
+Carter['kɑrtə]
 
-Parker['parkə]
+Parker['pɑrkə]
 
-Mars[mars]
+Mars[mɑrs]
 
-martyr['martə] 烈士
+martyr['mɑrtə] 烈士
