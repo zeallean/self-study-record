@@ -7,4 +7,5 @@
    * [第三天](habit/day03.md)
    * [第四天](habit/day04.md)
    * [第五天](habit/day05.md)
+   * [第六天](habit/day06.md)
 
