@@ -10,4 +10,7 @@
    * [第五天](habit/day05.md)
    * [第六天](habit/day06.md)
    * [第七天](habit/day07.md)
+   * [第八天](habit/day08.md)
+   * [第九天](habit/day09.md)
+
 
